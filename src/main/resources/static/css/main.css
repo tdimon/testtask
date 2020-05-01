@@ -1,0 +1,39 @@
+table {
+    border-collapse: collapse
+}
+
+table th{
+    border-collapse: collapse;
+    padding: 0 3px;
+}
+
+table th, td {
+    border: 1px solid;
+}
+
+.post-data {
+    margin-bottom: 10px;
+}
+
+.post-data input {
+    box-sizing: border-box;
+    height: 20px;
+}
+
+.post-data button {
+    height: 21px;
+}
+
+table button {
+    width: 150px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.textfield {
+    padding-left: 3px;
+    padding-right: 3px;
+    text-align: center;
+}
